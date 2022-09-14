@@ -46,10 +46,6 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/yanis-b-437280236/)
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-">]yanis.bekrarchouche@edu.devinci.Fr)
-
-
 <a href="mailto:yanis.bekrarchouche@edu.devinci.fr"><img alt="Email" src="https://img.shields.io/badge/Email-yanis.bekrarchouche@edu.devinci.fr-blue?style=flat-square&logo=gmail"></a>
 </p>
 
