@@ -56,6 +56,8 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/yanis-b-437280236/)
+
 <p align="center">
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/yanis-b-437280236/)
 <a href="[(https://www.linkedin.com/in/yanis-b-437280236/)/](https://www.linkedin.com/in/yanis-b-437280236/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yanis%20Bekrarchouche%20-blue?style=flat-square&logo=linkedin"></a>
