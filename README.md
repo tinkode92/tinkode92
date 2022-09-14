@@ -2,7 +2,7 @@
 
 
 
-<h2> Hey there! I'm Tinkode alias Yanis Bekrarchouche.</h2>
+<h2> Hey there! 👋 I'm Tinkode alias Yanis Bekrarchouche.</h2>
 
 ![moi en train de coder](https://user-images.githubusercontent.com/113121371/190073074-02d34b8b-7688-4707-ab07-d9f3b45b76df.gif)
 
