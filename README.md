@@ -1,9 +1,8 @@
 
 
 
-<h2> 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=A1A1A1&width=435&lines=I'm+Tinkode+alias+Yanis+Bekrarchouche+)](https://git.io/typing-svg)</h2>
-  Hi ! 👋 I'm Tinkode alias Yanis Bekrarchouche.
+<h2>   Hi ! 👋 I'm Tinkode alias Yanis Bekrarchouche.</h2>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=A1A1A1&width=435&lines=I'm+Tinkode+alias+Yanis+Bekrarchouche+)](https://git.io/typing-svg)
 
