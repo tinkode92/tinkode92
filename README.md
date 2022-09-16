@@ -47,7 +47,8 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=40&pause=1000&color=FF0000&background=BF0A0A00&width=800&height=70&lines=Connect+with+Me)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/yanis-b-437280236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yanis-bekrarchouche" height="30" width="40" /></a>
 
