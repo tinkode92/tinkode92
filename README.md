@@ -1,12 +1,10 @@
 
 
 
+![moi en train de coder](https://user-images.githubusercontent.com/113121371/190571795-0ec186c7-ae2d-43de-80e6-b1e60c63c093.gif)
 
 <h2> Hi ! 👋 I'm Tinkode alias Yanis Bekrarchouche.</h2>
 
-
-
-![moi en train de coder](https://user-images.githubusercontent.com/113121371/190571795-0ec186c7-ae2d-43de-80e6-b1e60c63c093.gif)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
