@@ -36,8 +36,8 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinkode92)](https://github.com/tinkode92/github-readme-stats)
-
+  
+![tinkode92 GitHub stats](https://github-readme-stats.vercel.app/api?username=tinkode92&theme=great-gatsby)
 </details>
 
 <details>
