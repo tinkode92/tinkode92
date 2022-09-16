@@ -3,6 +3,8 @@
 
 <h2> Hi ! 👋 I'm Tinkode alias Yanis Bekrarchouche.</h2>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=A1A1A1&width=435&lines=I'm+Tinkode+alias+Yanis+Bekrarchouche+)](https://git.io/typing-svg)
+
 ![moi en train de coder](https://user-images.githubusercontent.com/113121371/190571795-0ec186c7-ae2d-43de-80e6-b1e60c63c093.gif)
 
 
