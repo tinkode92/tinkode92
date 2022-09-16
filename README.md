@@ -13,7 +13,7 @@
 - 🎓 &nbsp; Studying at IIM - Digital School Paris
 - 💼 &nbsp; Bachelor year student in Coding and Digital Innovation
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Continue coding and get involved in marketing strategy and digital
 
 ### Languages and Tools:
 <div display="flex">
