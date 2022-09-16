@@ -2,6 +2,8 @@
 
 
 <h2> Hi ! 👋 I'm Tinkode alias Yanis Bekrarchouche.</h2>
+![moi en train de coder](https://user-images.githubusercontent.com/113121371/190571795-0ec186c7-ae2d-43de-80e6-b1e60c63c093.gif)
+
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -12,7 +14,6 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Continue coding and get involved in marketing strategy and digital
 
-![moi en train de coder](https://user-images.githubusercontent.com/113121371/190571795-0ec186c7-ae2d-43de-80e6-b1e60c63c093.gif)
 
 
 ### Languages and Tools:
@@ -29,6 +30,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 <br/>
+
 
 <details>
   <summary>:zap: Github Stats</summary>
