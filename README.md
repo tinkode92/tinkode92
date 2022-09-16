@@ -50,7 +50,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=40&pause=1000&color=FF0000&background=BF0A0A00&width=800&height=70&lines=Connect+with+Me)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/yanis-b-437280236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yanis-bekrarchouche" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/in/yanis-b-437280236//">
+    <img alt="Yanis Bekrarchouche| Linkedin" width="50px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
+</a>
+</a>
+<a href="mailto:yanis.bekrarchouche@edu.devinci.Fr">
+    <img alt="Yanis Bekrarchouche| Gmail" width="50px" src="https://uploads-ssl.webflow.com/5ad4c302a9ea3372eaea975f/5b995a276460dc98cf54bd11_Gmail.png" />
+</a>
 
 
 
