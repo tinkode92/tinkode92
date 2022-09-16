@@ -48,7 +48,4 @@
 <a href="https://www.linkedin.com/in/yanis-b-437280236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yanis-bekrarchouche" height="30" width="40" /></a>
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/yanis-b-437280236/)
-<a href="mailto:yanis.bekrarchouche@edu.devinci.fr"><img alt="Email" src="https://img.shields.io/badge/Email-yanis.bekrarchouche@edu.devinci.fr-blue?style=flat-square&logo=gmail"></a>
-
 
