@@ -1,6 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=40&pause=1000&color=FF0000&background=BF0A0A00&width=800&height=70&lines=I'm+Tinkode+alias+Yanis+Bekrarchouche+;Coding+and+Digital+Innovation+student)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=40&pause=1000&color=FF0000&background=BF0A0A00&width=800&height=90&lines=Hi+I'm+Tinkode+alias+Yanis+Bekrarchouche+;Coding+and+Digital+Innovation+Student)](https://git.io/typing-svg)
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -48,7 +47,7 @@
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=40&pause=1000&color=FF0000&background=BF0A0A00&width=800&height=70&lines=Connect+with+Me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=40&pause=5000&color=FF0000&background=BF0A0A00&width=800&height=70&lines=Connect+with+Me)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/in/yanis-b-437280236//">
     <img alt="Yanis Bekrarchouche| Linkedin" width="50px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
