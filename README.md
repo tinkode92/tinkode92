@@ -4,9 +4,9 @@
 
 <h2> Hi ! 👋 I'm Tinkode alias Yanis Bekrarchouche.</h2>
 
-![moi en train de coder(1)](https://user-images.githubusercontent.com/113121371/190571454-9f9d5d12-0d6b-404e-8f1d-1b7d44a1e7cf.gif)
 
 
+![moi en train de coder](https://user-images.githubusercontent.com/113121371/190571795-0ec186c7-ae2d-43de-80e6-b1e60c63c093.gif)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
