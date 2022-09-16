@@ -1,8 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=40&pause=1000&color=FF0000&background=BF0A0A00&width=800&height=70&lines=I'm+Tinkode+alias+Yanis+Bekrarchouche+;Coding+and+Digital+Innovation+student)](https://git.io/typing-svg)
 
-![moi en train de coder](https://user-images.githubusercontent.com/113121371/190571795-0ec186c7-ae2d-43de-80e6-b1e60c63c093.gif)
-
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -27,6 +25,11 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
   <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+
 </div>
 <br/>
 
