@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=40&pause=1000&color=FF0000&background=BF0A0A00&width=800&height=90&lines=Hi+I'm+Tinkode+alias+Yanis+Bekrarchouche+;Coding+and+Digital+Innovation+Student)](https://git.io/typing-svg)
 
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
