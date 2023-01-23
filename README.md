@@ -4,10 +4,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying at IIM - Digital School Paris
-- 💼 &nbsp; Bachelor year student in Coding and Digital Innovation
+- 🎓 &nbsp; Studying at IIM - Digital School Paris.
+- 💼 &nbsp; Bachelor year student in Coding and Digital Innovation.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Continue coding and get involved in marketing strategy and digital
+- ✍️ &nbsp; Continue coding and get involved in marketing strategy and digital.
 
 💼 Portfolio : https://tinkode92.github.io/Portfolio-Yanis-Bekrarchouche/
 
